@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1564191685027,519,HTTP Request,200,OK,Thread Group 1-1,text,true,,15023,236,1,1,http://www.google.co.in/,224,0,128
+1564191685027,224,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,532,116,1,1,http://google.co.in/,224,0,128
+1564191685253,293,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,14491,120,1,1,http://www.google.co.in/,293,0,86
+1564191686030,391,HTTP Request,200,OK,Thread Group 1-2,text,true,,15048,236,1,1,http://www.google.co.in/,171,0,66
+1564191686030,171,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,532,116,1,1,http://google.co.in/,171,0,66
+1564191686203,218,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,14516,120,1,1,http://www.google.co.in/,213,0,31
+1564191687028,393,HTTP Request,200,OK,Thread Group 1-3,text,true,,15029,236,1,1,http://www.google.co.in/,140,0,51
+1564191687028,140,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,532,116,1,1,http://google.co.in/,140,0,51
+1564191687170,251,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,14497,120,1,1,http://www.google.co.in/,251,0,48
+1564191688028,386,HTTP Request,200,OK,Thread Group 1-4,text,true,,15017,236,1,1,http://www.google.co.in/,175,0,47
+1564191688028,175,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,532,116,1,1,http://google.co.in/,175,0,47
+1564191688206,208,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,14485,120,1,1,http://www.google.co.in/,161,0,35
+1564191689012,349,HTTP Request,200,OK,Thread Group 1-5,text,true,,15015,236,1,1,http://www.google.co.in/,148,0,60
+1564191689012,148,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,532,116,1,1,http://google.co.in/,148,0,60
+1564191689163,198,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,14483,120,1,1,http://www.google.co.in/,179,0,32
+1564191690013,353,HTTP Request,200,OK,Thread Group 1-6,text,true,,15000,236,1,1,http://www.google.co.in/,150,0,61
+1564191690013,151,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,532,116,1,1,http://google.co.in/,150,0,61
+1564191690166,200,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,14468,120,1,1,http://www.google.co.in/,158,0,28
+1564191691012,430,HTTP Request,200,OK,Thread Group 1-7,text,true,,15025,236,1,1,http://www.google.co.in/,207,0,89
+1564191691012,207,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,532,116,1,1,http://google.co.in/,207,0,89
+1564191691221,221,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,14493,120,1,1,http://www.google.co.in/,183,0,52
+1564191692013,423,HTTP Request,200,OK,Thread Group 1-8,text,true,,15002,236,1,1,http://www.google.co.in/,188,0,97
+1564191692013,188,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,532,116,1,1,http://google.co.in/,188,0,97
+1564191692203,233,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,14470,120,1,1,http://www.google.co.in/,161,0,34
+1564191693012,336,HTTP Request,200,OK,Thread Group 1-9,text,true,,15055,236,1,1,http://www.google.co.in/,150,0,48
+1564191693012,150,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,532,116,1,1,http://google.co.in/,150,0,48
+1564191693164,184,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,14523,120,1,1,http://www.google.co.in/,172,0,31
+1564191694013,362,HTTP Request,200,OK,Thread Group 1-10,text,true,,14984,236,1,1,http://www.google.co.in/,151,0,30
+1564191694013,151,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,532,116,1,1,http://google.co.in/,151,0,30
+1564191694166,209,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,14452,120,1,1,http://www.google.co.in/,161,0,36
